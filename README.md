@@ -1,6 +1,6 @@
 ![Eduardo Lucas Terra Peixoto]
 
-Hi there, I’m Eduardo Lucas Terra Peixoto, but you can call me Ed. I’m a professor of animal science at the Federal University of Grande Dourados, Brazil. In this repository, I share some of my awesome projects and works related to ruminant nutrition and data science applied to animal production.
+Hi there, I’m Eduardo Lucas Terra Peixoto, but you can call me Edu or Du. I’m a professor of animal science at the Federal University of Grande Dourados, Brazil. In this repository, I share some of my awesome projects and works related to ruminant nutrition and data science applied to animal production.
 
 About me
 I was born in a small town called Alterosa, in Minas Gerais. It’s a beautiful place with friendly people and delicious food. I love animals since I was a kid, especially cows and sheep. They are so cute and fluffy! I decided to study animal science because I wanted to learn more about them and how to feed them well. I have a PhD in Animal Science from the State University of Londrina and a Master’s degree and a Bachelor’s degree in Animal Science from the Federal Rural University of Rio de Janeiro. I have published several scientific articles in journals such as Scientia Agricola, RealizAção, and Revista Agraria Academica. You can check them out on my [Google Scholar] profile.
