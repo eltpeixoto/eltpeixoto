@@ -1,24 +1,7 @@
-
 # Eduardo Lucas Terra Peixoto 
 # 👨‍🔬 💻 🔬 🐄 🐏 
 
 > Hi there, I’m Eduardo Lucas Terra Peixoto, but you can call me Edu or Du. I’m a professor of animal science at the Federal University of Grande Dourados, Brazil. In this repository, I share some of my awesome projects and works related to ruminant nutrition and data science applied to animal production.
-
-
-<!--I work with ruminant nutrition, testing alternative products in ruminant feeding and with modeling applied to animal production. I use different types of plants and by-products to make silages for ruminants. Silages are fermented feeds that can be stored for a long time and provide good nutrients for the animals. I also use mathematical models to estimate the growth and milk production of dairy cows in intensive systems. I use data collected from farms and experiments to fit the parameters of the models. I also evaluate how different environmental and genetic factors affect the performance of the animals.
-
-I am a member of the Center for Studies on Pastures and Forage Autonomy (NEPAF), where I supervise students at undergraduate and postgraduate levels. NEPAF is a research group that focuses on improving the quality and productivity of pastures and forages for ruminants. We also work on developing strategies for increasing the autonomy of farmers in managing their own feed resources.
-
-I am currently directing my career to the area of technology by taking the course of Data Science Technology at the Federal University of Mato Grosso do Sul, Brazil. I am learning how to use programming languages Python and R in the area of technology. I think data science is very cool and useful for animal production. I can use data science techniques to analyze data, visualize results, make predictions, and solve problems.
-
-My projects
-Here are some of my projects that I have developed or am developing:
-
-[Analysis of the bromatological composition of alternative silages for feeding sheep]: In this project, I evaluated the nutritional quality of silages made with different types of forage plants, such as corn, sorghum, sunflower, elephant grass, among others. I used chemical analysis and in vitro digestibility techniques to determine the dry matter, crude protein, neutral detergent fiber, acid detergent fiber, dry matter digestibility and gross energy contents of the silages. I also compared the production costs and productive performance of the animals fed with the silages.
-[Modeling of growth and milk production of dairy cows in intensive systems]: In this project, I used mathematical models to estimate the body growth and milk production of dairy cows in intensive systems. I used data collected from commercial and experimental farms to adjust the parameters of the models. I also evaluated the sensitivity of the models to different environmental and genetic factors that affect the performance of the animals.
-[Application of machine learning techniques for classification of pasture images]: In this project, I am using machine learning techniques to classify pasture images into different categories, such as forage quality, soil cover, presence of pests and diseases, etc. I am using Python and R languages to process the images and train the models. I am using convolutional neural networks to extract features from the images and classify them.-->
-
-
 
 
 ## General summary about me
@@ -33,17 +16,63 @@ Here are some of my projects that I have developed or am developing:
 
 ⚡️ My hobbies are 👨🏻‍🍳 cooking ,🏃‍♂️ running , ✈️ traveling , and 🤓 learning .
 
+<table>
+  <thead>
+    <tr>
+      <th>GitHub Stats</th>
+      <th>GitHub Streak</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=eltpeixoto&theme=transparent&bg_color=000&border_color=098a34&show_icons=true&icon_color=098a34&title_color=098a34&text_color=FFF" alt="GitHub Stats">
+      </td>
+      <td>
+        <img src="https://streak-stats.demolab.com?user=eltpeixoto&theme=soft-green&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## 🚀 About me
-> I was born in a small town called Alterosa, in Minas Gerais. It’s a beautiful place with friendly people and delicious food. I love animals since I was a kid, especially cows and sheep. I decided to study animal science because I wanted to learn more about them and how to feed them well. I have a PhD in Animal Science from the State University of Londrina and a Master’s degree and a Bachelor’s degree in Animal Science from the Federal Rural University of Rio de Janeiro. I have published several scientific articles in journals. You can check them out on my [Google Scholar](https://scholar.google.com/citations?user=-OTe968AAAAJ&hl=pt-BR) profile.
+> I was raised in a small town called Alterosa, in Minas Gerais. It’s a beautiful place with friendly people and delicious food. I love animals since I was a kid, especially cows and sheep. I decided to study animal science because I wanted to learn more about them and how to feed them well. I have a PhD in Animal Science from the State University of Londrina and a Master’s degree and a Bachelor’s degree in Animal Science from the Federal Rural University of Rio de Janeiro. I have published several scientific articles in journals. You can check them out on my [Google Scholar](https://scholar.google.com/citations?user=-OTe968AAAAJ&hl=pt-BR) profile.
+
+## My projects
 
 
+
+## Technologies
+<div align="center" width="100%">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="50" />          
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />     
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="50"/>          
+</div>
 
 ## Contact
 If you want to contact me, you can send me an email to eduardopeixoto@ufgd.edu.br or follow me on social media:
 
-[LinkedIn](https://www.linkedin.com/in/eduardo-lucas-terra-peixoto-46716a211/)
-[Instagram]
-[Facebook]      
+<div align="center" width="100%">
+  <div display="flex">
+    <a href="https://www.linkedin.com/in/eduardo-lucas-terra-peixoto-46716a211/">
+      <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=098a34" />
+    </a>
+    <a href="https://github.com/eltpeixoto">
+      <img src="https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github&logoColor=098a34" />        
+    </a>
+    <a href="https://instagram.com/eduardo_lucastp?igshid=NzZlODBkYWE4Ng==">
+      <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=098a34" />
+    </a>
+    <a href="https://wa.me/+5567992196430">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=098a34" />
+    </a>
+  </div>
+</div>
+<br>
+<br>
+
+   
 Thanks for visiting my repository! 😊
 ****
