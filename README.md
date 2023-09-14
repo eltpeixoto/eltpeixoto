@@ -62,12 +62,6 @@ If you want to contact me, you can send me an email to eduardopeixoto@ufgd.edu.b
     <a href="https://github.com/eltpeixoto">
       <img src="https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github&logoColor=098a34" />        
     </a>
-    <a href="https://instagram.com/eduardo_lucastp?igshid=NzZlODBkYWE4Ng==">
-      <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=098a34" />
-    </a>
-    <a href="https://wa.me/+5567992196430">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=098a34" />
-    </a>
   </div>
 </div>
 <br>
